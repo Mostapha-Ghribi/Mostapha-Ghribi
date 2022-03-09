@@ -15,7 +15,7 @@ const Me = {
             frameworks: ["ExpressJS","Laravel","Symfony"]
         },
         frontEnd: {
-            frameworks: ["ReactJS","AngularJS"]
+            frameworks: ["ReactJS","AngularJS","VueJS"]
         },
         databases: ["mongoDB", "MySql", "sqlite"],
     },
