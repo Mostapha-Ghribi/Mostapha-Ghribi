@@ -12,10 +12,10 @@ const Me = {
     name: "Mostapha Ghribi",
     technologies: {
         backEnd: {
-            frameworks: ["ExpressJS","Laravel","Symfony"]
+            frameworks: ["ExpressJS","Laravel","Symfony","nodeJS"]
         },
         frontEnd: {
-            frameworks: ["ReactJS","AngularJS","VueJS"]
+            frameworks: ["React","Angular","Vue"]
         },
         databases: ["mongoDB", "MySql", "sqlite"],
     },
