@@ -12,12 +12,12 @@ const Me = {
     name: "Mostapha Ghribi",
     technologies: {
         backEnd: {
-            frameworks: ["ExpressJS","Laravel","Symfony","nodeJS"]
+            frameworks: ["ExpressJS","Laravel","Symfony","nestJS"]
         },
         frontEnd: {
             frameworks: ["React","Angular","Vue"]
         },
-        databases: ["mongoDB", "MySql", "sqlite"],
+        databases: ["mongoDB", "MySql", "sqlite","postgresql"],
     },
     currentFocus: ["DevOps","Flutter"],
 };
